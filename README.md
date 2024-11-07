@@ -36,9 +36,9 @@
 
 
 ## My stats
-![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisreza&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisreza&show_icons=true&theme=radical)
 
  
 ## Github
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nafisreza&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nafisreza&theme=gotham)](https://git.io/streak-stats)
