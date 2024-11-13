@@ -4,9 +4,7 @@
 
 <div>
   <p>
-    Computer Science sophomore, a JavaScript enthusiast. Currently working as a front-end engineer  
-    at <a href="https://www.guideasy.com">Guideasy</a>.
-    I write bugs for living! 😂
+    Computer Science sophomore, a JavaScript enthusiast and open source contributor. I write bugs for living! 😂
   </p>
 </div>
 
