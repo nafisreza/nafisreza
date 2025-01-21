@@ -4,7 +4,7 @@
 
 <div>
   <p>
-    Computer Science sophomore, a JavaScript enthusiast and open source contributor. I write bugs for living! 😂
+    Software Engineer, a JavaScript enthusiast and open source contributor. I write bugs for living! 😂
   </p>
 </div>
 
