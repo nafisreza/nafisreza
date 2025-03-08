@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Hi, I'm Nafis Reza 👋 </h1>
+    <h1> Hi, I'm Nafis 👋 </h1>
 </div>    
 
 <div>
@@ -8,22 +8,7 @@
   </p>
 </div>
 
-## Languages and Tools
-<div style="display: flex; align-items: center; flex-wrap: wrap">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="">
-</div>
-
-## Socials
+## Connect with me
 <div style="display: flex;">
 <a href="https://www.linkedin.com/in/nafisreza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.nafisreza.com/"><img src="https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=firefoxbrowser"></a>
