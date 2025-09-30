@@ -20,5 +20,3 @@
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=nafisreza&theme=gotham)](https://git.io/streak-stats)
-
-![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisreza&layout=compact)
