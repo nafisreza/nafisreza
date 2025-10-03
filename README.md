@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1> Hi, I'm Nafis 👋 </h1>
 </div>    
 
@@ -16,7 +16,7 @@
 <a href="mailto:nafisrezabd@gmail.com"><img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail"></a>
 </div>
 
-
-
+<!--
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=nafisreza&theme=gotham)](https://git.io/streak-stats)
+-->
